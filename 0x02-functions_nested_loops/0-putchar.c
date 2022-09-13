@@ -2,7 +2,7 @@
 
 
 
-/*
+/**
 * main - prints the string _putchar with headers
 * Return: returns 0
 */
